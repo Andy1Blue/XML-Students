@@ -101,4 +101,3 @@ The highest avarange
 ------
 Mariusz Konewka have 6.0 avarange!
 ```
-# XML-Students
