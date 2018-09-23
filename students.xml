@@ -1,0 +1,74 @@
+<students>
+    <student id="100027">
+        <name>Maria Antonina</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="3"/>
+            <result course="Biology 101" grade="2"/>
+            <result course="Statistics 101" grade="4"/>
+        </results>
+    </student>
+    <student id="100028">
+        <name>Kaczor Donald</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="2,5"/>
+            <result course="Biology 101" grade="4"/>
+            <result course="Statistics 101" grade="6"/>
+        </results>
+    </student>
+    <student id="100066">
+        <name>Myszka Mickey</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="2"/>
+            <result course="Biology 101" grade="2"/>
+            <result course="Statistics 101" grade="3"/>
+        </results>
+    </student>
+    <student id="100043">
+        <name>Han Solo</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="1"/>
+            <result course="Biology 101" grade="5"/>
+            <result course="Statistics 101" grade="5"/>
+        </results>
+    </student>
+    <student id="100069">
+        <name>Mariusz Konewka</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="6"/>
+            <result course="Biology 101" grade="6"/>
+            <result course="Statistics 101" grade="6"/>
+        </results>
+    </student>
+    <student id="100021">
+        <name>Kamil Łopatka</name>
+        <age>21</age>
+        <major>Biology</major>
+        <results>
+            <result course="Math 101" grade="1"/>
+            <result course="Biology 101" grade="1"/>
+            <result course="Statistics 101" grade="1,5"/>
+        </results>
+    </student>
+    <student id="100078">
+        <name>Jack Doe</name>
+        <age>18</age>
+        <major>Physics</major>
+        <major>XML Science</major>
+        <results>
+            <result course="Math 101" grade="1"/>
+            <result course="XML 101" grade="2"/>
+            <result course="Physics 101" grade="3"/>
+            <result course="XML 102" grade="4"/>
+        </results>
+    </student>
+</students>
