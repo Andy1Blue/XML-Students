@@ -1,4 +1,4 @@
-# XMLStudents
+# XML-Students
 Recruitment question:
 > Create a project to load information from an xml file and obtain information which student has the highest average and which student has the longest last name. The solution must be useful. The use of JAVA 8 and available libraries will be assessed.
 
